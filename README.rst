@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fbb-push-sample-os4.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fbb-push-sample-os4?ref=badge_shield)
+
 Urban Airship Push Client for BB OS 4.X
 =======================================
 
@@ -72,3 +74,7 @@ Integrating it into your application
 - Copy the PushConnector.java module to your app.
 - Follow the model of the code in UrbanAirshipMain for implementing
   GlobalEventListener.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fbb-push-sample-os4.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fbb-push-sample-os4?ref=badge_large)
